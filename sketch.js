@@ -10,7 +10,7 @@ var preparedImgs = [];
 var img;
 
 function preload() {
-  table = loadTable('csv/test006.csv', 'csv', 'header', table => 
+  table = loadTable('csv/test007.csv', 'csv', 'header', table => 
   {
     tableMultiArray = table.getArray();
 
